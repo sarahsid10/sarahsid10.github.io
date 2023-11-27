@@ -1,5 +1,5 @@
 ---
 title: test-page
-layout: resume
+layout: page
 ---
 This is my hello world.
