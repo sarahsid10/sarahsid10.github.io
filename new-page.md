@@ -1,5 +1,5 @@
 ---
-title: test-page
+title: new-page
 layout: page
 ---
 This is my hello world.
