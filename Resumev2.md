@@ -1,6 +1,6 @@
 ---
 title: Resumev2
-layout: resume
+layout: page
 ---
 
 <b> Use this template to share your accomplishments </b>  
