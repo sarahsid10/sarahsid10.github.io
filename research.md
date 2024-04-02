@@ -17,4 +17,5 @@ You can update the `title` of file (line 3) to change the heading of
   in the navigation and/or adjust its url, see `data/navigation.yml` file.
 -->
 
-
+Below is the poster RCL's data team presented at the 2024 RDAP Summit.
+RDAP2024_DataBloom_Poster_Rochester.png
