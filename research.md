@@ -29,4 +29,4 @@ Resized image:
 <img src="images/RDAP2024_DataBloom_Poster_Rochester.png" width="700" height="500">
 -->
 
-<img src="RDAP2024_DataBloom_Poster_Rochester.png" width="700" height="500">
+<img src="images/RDAP2024_DataBloom_Poster_Rochester.png" width="700" height="500">
