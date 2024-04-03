@@ -29,4 +29,8 @@ Resized image:
 <img src="images/RDAP2024_DataBloom_Poster_Rochester.png" width="700" height="500">
 -->
 
+<!--
+doesn't work
 <img width="700" height="500" src="https://github.com/sarahsid10/sarahsid10.github.io/blob/master/images/RDAP2024_DataBloom_Poster_Rochester.png">
+-->
+![Poster](images/RDAP2024_DataBloom_Poster_Rochester.png){:height="500px" width="700px"}
