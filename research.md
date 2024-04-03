@@ -18,7 +18,7 @@ You can update the `title` of file (line 3) to change the heading of
 -->
 
 
-Below is the poster RCL's data team presented at the 2024 RDAP Summit.
+Below is the poster RCL's data team presented at the 2024 RDAP Summit. The poster, recording, and licensing information are available at https://osf.io/ejyc3/ .
 
 <!--#
 ![Poster](images/RDAP2024_DataBloom_Poster_Rochester.png)
