@@ -17,8 +17,15 @@ You can update the `title` of file (line 3) to change the heading of
   in the navigation and/or adjust its url, see `data/navigation.yml` file.
 -->
 
+
 Below is the poster RCL's data team presented at the 2024 RDAP Summit.
-#![Poster](images/RDAP2024_DataBloom_Poster_Rochester.png)
+
+<!--#
+![Poster](images/RDAP2024_DataBloom_Poster_Rochester.png)
+-->
 
 Resized image:
+<!--
 <img src="images/RDAP2024_DataBloom_Poster_Rochester.png" width="700" height="500">
+-->
+<img src=images/RDAP2024_DataBloom_Poster_Rochester.png width="700" height="500">
