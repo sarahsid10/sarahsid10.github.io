@@ -21,4 +21,4 @@ Below is the poster RCL's data team presented at the 2024 RDAP Summit.
 #![Poster](images/RDAP2024_DataBloom_Poster_Rochester.png)
 
 Resized image:
-<img src="images/RDAP2024_DataBloom_Poster_Rochester.png" width="500" height="500">
+<img src="images/RDAP2024_DataBloom_Poster_Rochester.png" width="700" height="500">
